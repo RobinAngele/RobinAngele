@@ -109,7 +109,7 @@ I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odo
 
 [![Sponsor RobinAngele](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&style=for-the-badge)](https://github.com/sponsors/RobinAngele)
 
-> 💡 **GitHub Sponsors** — 0 % de frais, 100 % de votre soutien arrive directement.
+> 💡 **GitHub Sponsors** — 0% fees, 100% of your support goes directly to me.
 
 ---
 
