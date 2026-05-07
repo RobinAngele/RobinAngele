@@ -124,9 +124,9 @@ I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odo
 
 ## 🎯 Current Focus (2026)
 
-- [ ] Helping freelance, small and medium entreprises to escape vendor lock-in with n8n, AI & self-hosted infrastructure (Nextcloud, Odoo)
-- [ ] Bridging freelance, small and medium entreprises to sovereign, self-hosted IT solutions
-- [ ] Contributing to Nextcloud, Odoo, N8n & other open source tools
+- [ ] Helping freelancers & SMEs automate without vendor lock-in — n8n, AI & self-hosted infrastructure
+- [ ] Bridging freelancers & SMEs to sovereign, self-hosted Drive & CRM (Nextcloud, Odoo)
+- [ ] Contributing to Nextcloud, Odoo, n8n & other open source tools
 
 ---
 
