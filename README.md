@@ -124,10 +124,9 @@ I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odo
 
 ## 🎯 Current Focus (2026)
 
-- [ ] Building intelligent automation solutions with n8n and AI
-- [ ] Helping SMEs transition to self-hosted infrastructure
-- [ ] Expanding international consulting services
-- [ ] Contributing to open-source tools
+- [ ] Helping SMEs escape vendor lock-in with n8n, AI & self-hosted infrastructure (Nextcloud, Odoo)
+- [ ] Contributing to Nextcloud, Cline, Roundcube & other open source tools
+- [ ] Bridging French SMBs to sovereign, self-hosted IT solutions
 
 ---
 
