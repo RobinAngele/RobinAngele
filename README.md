@@ -103,6 +103,16 @@ Completed intensive front-end web development training with hands-on experience 
 
 ---
 
+## 💖 Support My Open Source Work
+
+I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odoo** and other open source projects. If my contributions help you, consider sponsoring:
+
+[![Sponsor RobinAngele](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&style=for-the-badge)](https://github.com/sponsors/RobinAngele)
+
+> 💡 **GitHub Sponsors** — 0 % de frais, 100 % de votre soutien arrive directement.
+
+---
+
 ## 📫 Let's Connect
 
 - 💼 **Portfolio:** [frontend.robin4consulting.com](https://www.frontend.robin4consulting.com)
