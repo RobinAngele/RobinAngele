@@ -72,7 +72,7 @@ I understand freelance and SME realities: **tight budgets**, **practical solutio
 
 ## 🏆 Recent Experience Highlights
 
-### 🏗️ IT Infrastructure Architect & Backend Developer (Aug 2025 - Dec 2025)
+### 🏗️ IT Infrastructure Architect & Backend Developer
 
 Built production-ready self-hosted Drive, ERP and automation solutions for my freelance consulting business.
 
