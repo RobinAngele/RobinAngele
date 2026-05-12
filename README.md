@@ -95,7 +95,7 @@ Built production-ready self-hosted Drive, ERP and automation solutions for my fr
 - 💾 Engineered automated backup with RAID5 redundancy
 - 💾 Developed custom Bash scripts for incremental backups
 
-### 💻 Frontend Development (Feb 2025 - Jul 2025)
+### 💻 Frontend Development
 **TÜV-Certified Training** | Developer Akademie | 1,200+ hours
 
 Completed intensive front-end web development training with hands-on experience in modern frameworks and agile methodologies.
