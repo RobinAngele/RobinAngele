@@ -22,7 +22,7 @@ I help freelancers and small companies streamline operations, scale efficiently,
 - 🔐 Reverse proxy setup and secure API integrations
 
 **International Localization Consulting**
-- 🌍 Support for companies expanding to German and French markets
+- 🌍 Helping companies expand into German and French markets
 - 📋 Business compliance and regulatory navigation across regions
 - 🗣️ Multilingual workflow automation and content management
 
