@@ -1,6 +1,6 @@
 # Hi, I'm Robin 👋
 
-I help freelancers and small companies streamline operations, scale efficiently, and navigate international business requirements through intelligent automation and strategic IT consulting.
+I help freelancers and small companies streamline operations, scale efficiently, and navigate international business requirements through intelligent automation and strategic consulting.
 
 ## 💼 Why Work With Me
 
