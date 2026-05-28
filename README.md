@@ -6,8 +6,6 @@ I help freelancers and small companies streamline operations, scale efficiently,
 
 I understand freelance and SME realities: **tight budgets**, **practical solutions over theory**, and **independence from vendor lock-in**. I build what you need, explain how it works, and empower you to maintain control.
 
----
-
 ## 🎯 What I Do
 
 **AI Automation & Workflow Solutions**
