@@ -1,9 +1,10 @@
 # Hi, I'm Robin 👋
 
-### IT Infrastructure Architect | Full-Stack Developer | Automation Specialist
-
 I help freelancers and small companies streamline operations, scale efficiently, and navigate international business requirements through intelligent automation and strategic IT consulting.
 
+## 💼 Why Work With Me
+
+I understand freelance and SME realities: **tight budgets**, **practical solutions over theory**, and **independence from vendor lock-in**. I build what you need, explain how it works, and empower you to maintain control.
 ---
 
 ## 🎯 What I Do
@@ -25,12 +26,6 @@ I help freelancers and small companies streamline operations, scale efficiently,
 - 🌍 Helping companies expand into German and French markets
 - 📋 Business compliance and regulatory navigation across regions
 - 🗣️ Multilingual workflow automation and content management
-
----
-
-## 💼 Why Work With Me
-
-I understand freelance and SME realities: **tight budgets**, **practical solutions over theory**, and **independence from vendor lock-in**. I build what you need, explain how it works, and empower you to maintain control.
 
 ---
 
