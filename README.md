@@ -111,7 +111,7 @@ I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odo
 
 ## 📫 Let's Connect
 - 📅 **Book a free 20-minute call:** [pick a slot in my calendar](https://cloud.robin4consulting.com/apps/appointments/pub/QC27tw1cCNYaQVZr/form)
-- 🌐 **Portfolio:** [frontend.robin4consulting.com](https://www.frontend.robin4consulting.com)
+- 🌐 **Portfolio:** [portfolio.robin4consulting.com](https://portfolio.robin4consulting.com)
 - 📧 **Email:** contact@robin4consulting.com
 - 💬 **WhatsApp:**  [![WhatsApp](https://img.shields.io/badge/+33_1_46_48_09_80-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=33146480980)
 - 💬 **Open for:** Freelance projects, consulting opportunities, and collaboration — remote or in Paris
