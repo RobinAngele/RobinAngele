@@ -4,6 +4,31 @@
 
 I help freelancers and small companies streamline operations, scale efficiently, and navigate international business requirements through intelligent automation and strategic consulting.
 
+## 🚀 Featured Projects
+
+### 🪸 [ReefOffice](https://reefoffice.com) — my SaaS product
+**A managed, private back office for small businesses.** Files, document management, CRM, invoicing, automation and private AI run on a dedicated EU server reserved for each customer — deployed, secured, backed up and maintained for them. No lock-in: open-source components and portable formats.
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
+![Paperless](https://img.shields.io/badge/Paperless-17541F?style=flat&logo=paperlessngx&logoColor=white)
+![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=flat&logo=authentik&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+👉 **[Try ReefOffice for free](https://reefoffice.com)**
+
+### 🧭 [Robin4consulting](https://robin4consulting.com) — consulting platform built with Odoo
+One consultant, three practices, each with its own site (EN · FR · DE):
+- 🇩🇪 **[germany.robin4consulting.com](https://germany.robin4consulting.com)** — moving to and setting up a business in Germany
+- 💻 **[it.robin4consulting.com](https://it.robin4consulting.com)** — independent IT for freelancers & small businesses
+- 🎯 **[coaching.robin4consulting.com](https://coaching.robin4consulting.com)** — coaching for founders and small business owners
+
+### 🌐 [Portfolio](https://portfolio.robin4consulting.com) — Angular 19 · TypeScript · SCSS
+My developer portfolio in English, French and German, deployed automatically with GitHub Actions ([source](https://github.com/RobinAngele/portfolio-angular)).
+
+---
+
 ## 💼 Why Work With Me
 
 I understand freelance and SME realities: **tight budgets**, **practical solutions over theory**, and **independence from vendor lock-in**. I build what you need, explain how it works, and empower you to maintain control.
@@ -95,6 +120,20 @@ Built production-ready self-hosted Drive, ERP and automation solutions for my fr
 **TÜV-Certified Training** | Developer Akademie | 1,200+ hours
 
 Completed intensive front-end web development training with hands-on experience in modern frameworks and agile methodologies.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RobinAngele&show_icons=true&hide_border=true&count_private=true&hide=stars" alt="Robin's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=RobinAngele&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake.svg" alt="Contribution snake eating my GitHub contribution graph" />
+</picture>
 
 ---
 
