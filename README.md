@@ -77,24 +77,6 @@ I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odo
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RobinAngele&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
-    <img src="https://streak-stats.demolab.com?user=RobinAngele&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total GitHub contributions" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake-dark.svg?v=2" />
-    <img src="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake.svg?v=2" alt="Contribution snake eating my GitHub contribution graph" />
-  </picture>
-</p>
-
----
-
 ## 🛠️ Technology Stack
 
 ### Infrastructure & DevOps
