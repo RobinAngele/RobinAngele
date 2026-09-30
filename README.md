@@ -4,12 +4,9 @@
 
 I help freelancers and small companies streamline operations, scale efficiently, and navigate international business requirements through intelligent automation and strategic consulting.
 
-## 🚀 Featured Projects
+## 🪸 [ReefOffice](https://reefoffice.com) — my SaaS product
 
-### 🪸 [ReefOffice](https://reefoffice.com) — my SaaS product
 **A managed, private back office for small businesses.** Files, document management, CRM, invoicing, automation and private AI run on a dedicated EU server reserved for each customer — deployed, secured, backed up and maintained for them. No lock-in: open-source components and portable formats.
-
-**Under the hood:** hardened Linux hosts (Fail2Ban, SSH keys, Tailscale), reverse proxy with automatic TLS, Grafana/Prometheus monitoring and automated incremental backups with RAID redundancy.
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -20,15 +17,22 @@ I help freelancers and small companies streamline operations, scale efficiently,
 
 👉 **[Try ReefOffice for free](https://reefoffice.com)**
 
-### 🧭 [Robin4consulting](https://robin4consulting.com) — consulting platform built with Odoo
-One consultant, three practices, each with its own site (EN · FR · DE):
+---
+
+## 🧭 [Robin4consulting](https://robin4consulting.com) — my consulting practice
+
+One consultant, three practices, each with its own multilingual site (EN · FR · DE) built with Odoo:
 - 🇩🇪 **[germany.robin4consulting.com](https://germany.robin4consulting.com)** — moving to and setting up a business in Germany
 - 💻 **[it.robin4consulting.com](https://it.robin4consulting.com)** — independent IT for freelancers & small businesses
 - 🎯 **[coaching.robin4consulting.com](https://coaching.robin4consulting.com)** — coaching for founders and small business owners
 
-### 🌐 [Portfolio](https://portfolio.robin4consulting.com) — Angular 19 · TypeScript · SCSS
+---
+
+## 🌐 [Portfolio](https://portfolio.robin4consulting.com) — Angular 19 · TypeScript · SCSS
+
 My developer portfolio in English, French and German, deployed automatically with GitHub Actions ([source](https://github.com/RobinAngele/portfolio-angular)).
-Front-end foundations: **TÜV-certified training** at Developer Akademie (1,200+ hours, agile/Scrum).
+
+🎓 Front-end foundations: **TÜV-certified training** at Developer Akademie (1,200+ hours, agile/Scrum).
 
 ---
 
