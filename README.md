@@ -9,6 +9,8 @@ I help freelancers and small companies streamline operations, scale efficiently,
 ### 🪸 [ReefOffice](https://reefoffice.com) — my SaaS product
 **A managed, private back office for small businesses.** Files, document management, CRM, invoicing, automation and private AI run on a dedicated EU server reserved for each customer — deployed, secured, backed up and maintained for them. No lock-in: open-source components and portable formats.
 
+**Under the hood:** hardened Linux hosts (Fail2Ban, SSH keys, Tailscale), reverse proxy with automatic TLS, Grafana/Prometheus monitoring and automated incremental backups with RAID redundancy.
+
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white)
@@ -26,6 +28,7 @@ One consultant, three practices, each with its own site (EN · FR · DE):
 
 ### 🌐 [Portfolio](https://portfolio.robin4consulting.com) — Angular 19 · TypeScript · SCSS
 My developer portfolio in English, French and German, deployed automatically with GitHub Actions ([source](https://github.com/RobinAngele/portfolio-angular)).
+Front-end foundations: **TÜV-certified training** at Developer Akademie (1,200+ hours, agile/Scrum).
 
 ---
 
@@ -88,38 +91,6 @@ I understand freelance and SME realities: **tight budgets**, **practical solutio
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🏆 Recent Experience Highlights
-
-### 🏗️ IT Infrastructure Architect & Backend Developer
-
-Built production-ready self-hosted Drive, ERP and automation solutions for my freelance consulting business.
-
-**Infrastructure & Backend**
-- ✅ Deployed self-hosted Drive, ERP and automation solutions (Nextcloud, Odoo, n8n)
-- ✅ Architected multi-container environments with Docker & Portainer
-- ✅ Implemented K3s clusters for scalable container orchestration
-- ✅ Configured virtualization infrastructure with Incus for efficient resource isolation
-- ✅ Configured reverse proxy with automated SSL management (nginx, Traefik)
-- ✅ Managed DNS and email infrastructure (cPanel)
-- ✅ Deployed and optimized WordPress solutions for business websites
-
-**Security & Hardening**
-- 🔒 Implemented intrusion prevention and network security (Fail2Ban)
-- 🔒 Configured secure remote access networking (Tailscale)
-- 🔒 Deployed SSL/TLS encryption and SSH key authentication
-- 📊 Set up monitoring with real-time metrics (Grafana, Prometheus, Cockpit)
-
-**Backup & Recovery**
-- 💾 Engineered automated backup with RAID5 redundancy
-- 💾 Developed custom Bash scripts for incremental backups
-
-### 💻 Frontend Development
-**TÜV-Certified Training** | Developer Akademie | 1,200+ hours
-
-Completed intensive front-end web development training with hands-on experience in modern frameworks and agile methodologies.
 
 ---
 
