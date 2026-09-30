@@ -58,6 +58,43 @@ I understand freelance and SME realities: **tight budgets**, **practical solutio
 
 ---
 
+## 📫 Let's Connect
+- 📅 **Book a free 20-minute call:** [pick a slot in my calendar](https://cloud.robin4consulting.com/apps/appointments/pub/QC27tw1cCNYaQVZr/form)
+- 🌐 **Portfolio:** [portfolio.robin4consulting.com](https://portfolio.robin4consulting.com)
+- 📧 **Email:** [contact@robin4consulting.com](mailto:contact@robin4consulting.com)
+- 💬 **WhatsApp:**  [![WhatsApp](https://img.shields.io/badge/+33_1_46_48_09_80-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=33146480980)
+- 💬 **Open for:** Freelance projects, consulting opportunities, and collaboration — remote or in Paris
+
+---
+
+## 💖 Support My Open Source Work
+
+I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odoo** and other open source projects. If my contributions help you, consider sponsoring:
+
+[![Sponsor RobinAngele](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&style=for-the-badge)](https://github.com/sponsors/RobinAngele)
+
+> 💡 **GitHub Sponsors** — 0% fees, 100% of your support goes directly to me.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RobinAngele&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+    <img src="https://streak-stats.demolab.com?user=RobinAngele&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total GitHub contributions" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake.svg?v=2" alt="Contribution snake eating my GitHub contribution graph" />
+  </picture>
+</p>
+
+---
+
 ## 🛠️ Technology Stack
 
 ### Infrastructure & DevOps
@@ -91,52 +128,6 @@ I understand freelance and SME realities: **tight budgets**, **practical solutio
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RobinAngele&theme=github-dark-blue&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=RobinAngele&theme=default&hide_border=true" alt="GitHub contributions and streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake-dark.svg?v=2" />
-    <img src="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake.svg?v=2" alt="Contribution snake eating my GitHub contribution graph" />
-  </picture>
-</p>
-
----
-
-## 💖 Support My Open Source Work
-
-I actively contribute to **Nextcloud**, **Cline**, **Roundcube**, **n8n**, **Odoo** and other open source projects. If my contributions help you, consider sponsoring:
-
-[![Sponsor RobinAngele](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github&style=for-the-badge)](https://github.com/sponsors/RobinAngele)
-
-> 💡 **GitHub Sponsors** — 0% fees, 100% of your support goes directly to me.
-
----
-
-
-## 📫 Let's Connect
-- 📅 **Book a free 20-minute call:** [pick a slot in my calendar](https://cloud.robin4consulting.com/apps/appointments/pub/QC27tw1cCNYaQVZr/form)
-- 🌐 **Portfolio:** [portfolio.robin4consulting.com](https://portfolio.robin4consulting.com)
-- 📧 **Email:** contact@robin4consulting.com
-- 💬 **WhatsApp:**  [![WhatsApp](https://img.shields.io/badge/+33_1_46_48_09_80-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=33146480980)
-- 💬 **Open for:** Freelance projects, consulting opportunities, and collaboration — remote or in Paris
-
----
-
-## 🎯 Current Focus (2026)
-
-- [ ] Helping freelancers & SMEs automate without vendor lock-in with open-source tools like n8n, local AI & self-hosted infrastructure
-- [ ] Bridging freelancers & SMEs to sovereign, self-hosted Drive & CRM (Nextcloud, Odoo)
-- [ ] Contributing to Nextcloud, Odoo, n8n & other open source tools
 
 ---
 
