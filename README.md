@@ -126,14 +126,18 @@ Completed intensive front-end web development training with hands-on experience 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RobinAngele&show_icons=true&hide_border=true&count_private=true&hide=stars" alt="Robin's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=RobinAngele&hide_border=true" alt="GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RobinAngele&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=RobinAngele&theme=default&hide_border=true" alt="GitHub contributions and streak" />
+  </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake.svg" alt="Contribution snake eating my GitHub contribution graph" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/RobinAngele/RobinAngele/output/github-snake.svg?v=2" alt="Contribution snake eating my GitHub contribution graph" />
+  </picture>
+</p>
 
 ---
 
