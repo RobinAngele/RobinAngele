@@ -2,6 +2,8 @@
 
 📍 Based in Paris · 🌍 Working remotely · 🗣️ English, French, German & Italian
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin_Angel%C3%A9-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE0IDIwLjQ1MkgzLjU1OFY5aDMuNTU2djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/robin-angel%C3%A9/)
+
 I help freelancers and small companies streamline operations, scale efficiently, and navigate international business requirements through intelligent automation and strategic consulting.
 
 ## 🪸 [ReefOffice](https://reefoffice.com) — my SaaS product
@@ -65,6 +67,7 @@ I understand freelance and SME realities: **tight budgets**, **practical solutio
 ## 📫 Let's Connect
 - 📅 **Book a free 20-minute call:** [pick a slot in my calendar](https://cloud.robin4consulting.com/apps/appointments/pub/QC27tw1cCNYaQVZr/form)
 - 🌐 **Portfolio:** [portfolio.robin4consulting.com](https://portfolio.robin4consulting.com)
+- 💼 **LinkedIn:** [Robin Angelé](https://www.linkedin.com/in/robin-angel%C3%A9/) — follow me or send me a message
 - 📧 **Email:** [contact@robin4consulting.com](mailto:contact@robin4consulting.com)
 - 💬 **WhatsApp:**  [![WhatsApp](https://img.shields.io/badge/+33_1_46_48_09_80-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=33146480980)
 - 💬 **Open for:** Freelance projects, consulting opportunities, and collaboration — remote or in Paris
