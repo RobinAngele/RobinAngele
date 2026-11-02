@@ -1,4 +1,4 @@
-# Hi, I'm Robin 👋 — full stack developer & IT consultant
+# Hi, I'm Robin 👋 — IT consultant & full stack developer 
 
 📍 Based in Paris · 🌍 Working remotely · 🗣️ English, French, German & Italian
 
