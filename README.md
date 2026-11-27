@@ -30,7 +30,7 @@ One consultant, three practices, each with its own multilingual site (EN · FR �
 
 ---
 
-## 🌐 [Portfolio](https://portfolio.robin4consulting.com) — Angular 19 · TypeScript · SCSS
+## 🌐 [Portfolio](https://portfolio.robin4consulting.com) — Angular 22 · TypeScript · SCSS
 
 My developer portfolio in English, French and German, deployed automatically with GitHub Actions ([source](https://github.com/RobinAngele/portfolio-angular)).
 
